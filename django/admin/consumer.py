@@ -1,4 +1,4 @@
-#amqps://hqntvffm:XgWOZMrf7P4xs7A0I9ml57LVndxH3uqC@chimpanzee.rmq.cloudamqp.com/hqntvffm
+#amqps://xxxxxxxx
 import pika
 params = pika.URLParameters('amqps://xxxxxxx')
 
